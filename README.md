@@ -3,7 +3,7 @@
 Tasked with modernizing a web application built using Spring with a Java backend and HTML user interface, this solution created inventory managing and tracking. With the ability to log new parts, made both in-house and by a third-party. Utilizing SpringBoot with a Model View Controller design pattern, new parts and products can be added, logged, built, deleted and sold while maintaining accurate inventory.
 
 ### <ins>For a Video Demonstration</ins>
-    [![Watch the video](https://youtu.be/runqWnv14rU/0.jpg)](https://youtu.be/runqWnv14rU)
+[![Watch the video](https://youtu.be/runqWnv14rU/0.jpg)](https://youtu.be/runqWnv14rU)
 
 
 ## Getting Started
