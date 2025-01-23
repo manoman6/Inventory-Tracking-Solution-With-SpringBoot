@@ -33,6 +33,7 @@ http://localhost:8080
 ```commandline/terminal
 git clone https://github.com/manoman6/Inventory-Tracking-Solution-With-SpringBoot.git
 ```
+  * Then go into the project's directory
 ```commandline/terminal
 cd Inventory-Tracking-Solution-With-SpringBoot
 ```
